@@ -13,10 +13,6 @@
 
 This tool provides an intuitive interface and a fully automated workflow, allowing you to apply necessary patches with a single click. The process includes the installation, configuration, and integration of essential components to restore or enable Wi-Fi functionality on compatible versions of macOS, including **macOS Sonoma, Sequoia, and Tahoe**.  
 
-[Support this work](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=K4M7MJFLXUU6Y&ssrt=1753621430494)
- 
- If you find this project useful, consider supporting its development.
-
 ## How it Works
 
 Wi-Fi Patcher Pro leverages **OCLP Root Patching** to bypass limitations introduced by Apple in recent macOS versions, where native support for many legacy Broadcom chipsets was removed. Through automated patching, system adjustments, and component injection during the boot process, the application restores support for previously incompatible wireless hardware.
